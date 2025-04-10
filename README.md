@@ -10,6 +10,11 @@ An AI-powered advertisement generator that produces new, on-brand ads from refer
 - Flexible Output: Support for multiple ad formats
 - User-friendly Interface: Simple Streamlit interface for ad generation
 
+## Documentation
+
+- [Installation and Usage Guide](README.md) (this file)
+- [Architecture and Technical Details](ARCHITECTURE.md)
+
 ## Prerequisites
 
 - Python 3.8 or higher
